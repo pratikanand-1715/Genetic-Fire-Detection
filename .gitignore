@@ -1,0 +1,16 @@
+# Ignore the image dataset
+dataset/
+
+# Ignore the generated feature data
+forest_fire_features.csv
+
+# Ignore the trained model file (often too large for GitHub)
+fire_detection_model.pkl
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments if you used one
+venv/
+env/
